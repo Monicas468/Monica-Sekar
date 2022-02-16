@@ -1,6 +1,3 @@
-# Monica-Sekar
-Config files for my GitHub profile.
-
 # Online Registration Using VB.NET
 
 This Project is used for Online Registration Process. 
