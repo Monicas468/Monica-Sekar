@@ -1,0 +1,11 @@
+D:\.net_project\job\Registration\bin\Registration.dll.config
+D:\.net_project\job\Registration\bin\Registration.dll
+D:\.net_project\job\Registration\bin\Registration.pdb
+D:\.net_project\job\Registration\bin\Registration.xml
+D:\.net_project\job\Registration\obj\Debug\Registration.vbproj.AssemblyReference.cache
+D:\.net_project\job\Registration\obj\Debug\Registration.Resources.resources
+D:\.net_project\job\Registration\obj\Debug\Registration.vbproj.GenerateResource.cache
+D:\.net_project\job\Registration\obj\Debug\Registration.vbproj.CoreCompileInputs.cache
+D:\.net_project\job\Registration\obj\Debug\Registration.dll
+D:\.net_project\job\Registration\obj\Debug\Registration.xml
+D:\.net_project\job\Registration\obj\Debug\Registration.pdb
